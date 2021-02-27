@@ -5,9 +5,9 @@ TAG = rsa
 CC = gcc
 
 # source parametres
-SRC  = main.cpp
-SRC += menu.cpp
-SRC += rsa.cpp
+SRC  = main.c
+SRC += menu.c
+SRC += rsa.c
 
 # flag parametres
 FLAG  = -Wall
